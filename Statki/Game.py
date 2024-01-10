@@ -4,7 +4,7 @@ import Stats
 import Game
 
 playerMap = [[' ' for _ in range(8)] for _ in range(8)]
-playerShooted = [[False for _ in range(8)] for _ in range(8)]  # tablica sprawdzająca czy strzelano w dane pole
+playerShooted = [[False for _ in range(8)] for _ in range(8)]
 enemyMap = [[' ' for _ in range(8)] for _ in range(8)]
 roundNumber = 1
 
