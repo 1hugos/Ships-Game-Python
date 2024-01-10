@@ -1,7 +1,5 @@
 import random
-import Game
 from colorama import Fore, Style
-
 
 @staticmethod
 def random_ships_on_map():
